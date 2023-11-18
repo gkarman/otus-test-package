@@ -2,3 +2,5 @@
 
 vendore
 composer.lock
+
+/vendor/

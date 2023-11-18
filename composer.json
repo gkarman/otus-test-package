@@ -1,0 +1,18 @@
+{
+    "name": "gkarman/otus-test-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gkarman\\OtusTestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karman Gregory",
+            "email": "g.karman@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
